@@ -11,8 +11,8 @@ R
 I can do data wrangling, EDA & visualize insightful data in the form of dashboards. 
 I can do ad-hoc  analysis & reporting. Apart from it, I am familiar with data modelling, creating KPI's & ETL using BI tools.
 
-A while back, I completed Google data analytics professional certificate course - a rigorous, hands-on program that covers the entire scope of data analysis process.
-The course is accredited and endorsed by ACE(American Council on Education) and has 12 University credits.
+A while back, I completed [Google data analytics professional certificate course](https://drive.google.com/file/d/1FApI-3pPnAa3Es59T777LM97qvuQJ2QR/view?usp=sharing) - a rigorous, hands-on program that covers the entire scope of data analysis process.
+The course is accredited and endorsed by [ACE](https://drive.google.com/file/d/1FjIofiV6EpG_JP_-WR-t-oPWLtTqWqrM/view?usp=sharing)(American Council on Education) and has [12 University credits](https://drive.google.com/file/d/1FjIofiV6EpG_JP_-WR-t-oPWLtTqWqrM/view?usp=sharing).
 
 To know more, check my projects and other achievements.
 and feel free to contact me if you have any job position open for data analyst/business analyst/Business intelligence analyst profiles.
