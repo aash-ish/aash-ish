@@ -8,6 +8,7 @@ My technical skills are :
 * Tableau
 * Python
 * R
+
 I can do data wrangling, EDA & visualize insightful data in the form of dashboards. 
 I can do ad-hoc  analysis & reporting. Apart from it, I am familiar with data modelling, creating KPI's & ETL using BI tools.
 
