@@ -3,11 +3,11 @@ I have experience of doing multiple projects using different technical skills an
 I have experience in collecting, transforming and organizing data for analysis to make informed decisions.
 
 My technical skills are :
-M.S excel/Google sheets 
-SQL 
-Tableau
-Python
-R
+* M.S excel/Google sheets
+* SQL
+* Tableau
+* Python
+* R
 I can do data wrangling, EDA & visualize insightful data in the form of dashboards. 
 I can do ad-hoc  analysis & reporting. Apart from it, I am familiar with data modelling, creating KPI's & ETL using BI tools.
 
